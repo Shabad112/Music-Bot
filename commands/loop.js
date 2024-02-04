@@ -46,8 +46,6 @@ module.exports = {
         .setColor('#fc4e03')
         .setAuthor({
         name: 'Loop Your Melodies',
-        iconURL: '', 
-        url: ''
     })
         .setDescription('**Looping it! Let the music play on and on. **')
      
